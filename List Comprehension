@@ -1,0 +1,4 @@
+new_list = [operation for item in list]
+
+ex:
+temperature_adjusted = [temp + 20 for temp in temperatures]
